@@ -1,0 +1,16 @@
+{
+  "name": "app_gastos",
+  "version": "1.0.0",
+  "description": "app para trackear gastos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "nodemon": "^2.0.22"
+  }
+}
